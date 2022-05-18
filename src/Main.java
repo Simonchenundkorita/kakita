@@ -11,7 +11,7 @@ public class Main {
 
 
         score = 10000;
-        levelCompleted = 9;
+        levelCompleted = 8;
         bonus = 200;
 
         highScore = calculateScore(gameOver, score, levelCompleted, bonus);
