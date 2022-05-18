@@ -13,6 +13,7 @@ public class Main {
         score = 10000;
         levelCompleted = 8;
         bonus = 200;
+        //yuppy!
 
         highScore = calculateScore(gameOver, score, levelCompleted, bonus);
         System.out.println("Your final score was " + highScore);
